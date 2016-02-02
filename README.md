@@ -1,7 +1,7 @@
 # FSMTPd - Fake SMTP GUI to debug messages
 A simple, and blazing fast tool to debug email messages. Built with GTK and PyGObject. Python 2.7 needed. When a new message arrives. Throws an notification.
 
-![Viewing Received Message](http://imgur.com/Y70C3er)
+![Viewing Received Message](http://i.imgur.com/Y70C3er.png)
 
 Tested on Fedora 23 with GTK 3.
 I hope it help You!
